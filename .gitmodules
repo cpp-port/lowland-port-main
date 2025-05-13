@@ -1,0 +1,4 @@
+[submodule "assimp"]
+	path = assimp
+	url = ../assimp
+	branch = main
